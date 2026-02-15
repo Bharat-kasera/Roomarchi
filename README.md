@@ -16,7 +16,7 @@
 
   </div>
 
-  <h3 align="center">Roomify | AI-powered Architectural Visualization App</h3>
+  <h3 align="center">Roomarchi | AI-powered Architectural Visualization App</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
@@ -57,13 +57,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 - **[TailwindCSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows for rapid UI development by applying pre-defined classes directly in your markup.
 
-- **[Puter](https://jsm.dev/roomify-puter)** is the underlying cloud computing platform and "Internet OS" that provides the infrastructure; including serverless Workers, permanent file storage, key-value (KV) databases, and hosted AI models.
+- **[Puter](https://jsm.dev/roomarchi-puter)** is the underlying cloud computing platform and "Internet OS" that provides the infrastructure; including serverless Workers, permanent file storage, key-value (KV) databases, and hosted AI models.
 
-- **[Puter.js](https://jsm.dev/roomify-puterjs)** is the official JavaScript SDK that allows developers to interact with those cloud services directly from the frontend.
+- **[Puter.js](https://jsm.dev/roomarchi-puterjs)** is the official JavaScript SDK that allows developers to interact with those cloud services directly from the frontend.
 
-- **[CodeRabbit](https://jsm.dev/roomify-coderabbit)** is an AI-powered code review platform that provides deep insights and automated suggestions to improve code quality and security.
+- **[CodeRabbit](https://jsm.dev/roomarchi-coderabbit)** is an AI-powered code review platform that provides deep insights and automated suggestions to improve code quality and security.
 
-- **[Junie by JetBRains](https://jsm.dev/roomify-junie)** is an AI-driven coding assistant integrated into the development environment to help automate complex logic, refactoring, and prompt engineering.
+- **[Junie by JetBRains](https://jsm.dev/roomarchi-junie)** is an AI-driven coding assistant integrated into the development environment to help automate complex logic, refactoring, and prompt engineering.
 
 - **[Claude](https://www.anthropic.com/claude)** and **[Gemini](https://deepmind.google/technologies/gemini/)** are state-of-the-art large language models used to power the architectural transformation and image generation logic within the application.
 
@@ -103,8 +103,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/roomify
-cd roomify
+git clone https://github.com/adrianhajdin/roomarchi
+cd roomarchi
 ```
 
 **Installation**
@@ -123,7 +123,7 @@ Create a new file named `.env` in the root of your project and add the following
 VITE_PUTER_WORKER_URL=""
 ```
 
-Replace the placeholder values with your real credentials. You can get these by signing up at: [**Puter.com**](https://jsm.dev/roomify-puter).
+Replace the placeholder values with your real credentials. You can get these by signing up at: [**Puter.com**](https://jsm.dev/roomarchi-puter).
 
 **Running the Project**
 
@@ -148,6 +148,6 @@ Assets and snippets used in the project can be found in the **[video kit](https:
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsm.dev/roomify-jsm" target="_blank">
+<a href="https://jsm.dev/roomarchi-jsm" target="_blank">
   <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
 </a>
